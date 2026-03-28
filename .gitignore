@@ -1,0 +1,5 @@
+# Videos (too large for GitHub, hosted on Netlify)
+vids/*.mp4
+
+# Netlify
+.netlify/
